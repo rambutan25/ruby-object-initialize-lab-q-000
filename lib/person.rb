@@ -13,6 +13,6 @@ end
 #irb
 #beyonce = Person.new("Beyonce")
 #<Person:0x00000001ad5470 @name="Beyonce">
-#beyonce.name => nil
+#beyonce.name =>
 #beyonce
 #<Person:0x00000001ad5470 @name="Beyonce">
